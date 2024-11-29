@@ -8,7 +8,7 @@ Proposta para a EMTU utilizar para melhorar a operação das linhas intermunicip
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Objetivo do Aplicativo](# Objetivo do Aplicativo)
+* [Objetivo do Aplicativo](#Objetivo-do-Aplicativo)
 * Aprimorando a Experiência do Usuário
 * Público-Alvo
 * Usuários Gerais de Transporte
