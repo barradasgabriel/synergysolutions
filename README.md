@@ -7,17 +7,17 @@ Proposta para a EMTU utilizar para melhorar a operação das linhas intermunicip
 
 
 # Índice
-* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Objetivo do Projeto](#Projeto-(FATEC-API))
 * [Objetivo do Aplicativo](#Objetivo-do-Aplicativo)
-* Aprimorando a Experiência do Usuário
-* Público-Alvo
-* Usuários Gerais de Transporte
-* Compra de Passagens
-* Acesso a Descontos
-* Informações em Tempo Real
-* Cadastro de Passageiros
-* Interface do Aplicativo
-* Acessibilidade para deficientes Visual
+* [Aprimorando a Experiência do Usuário](#Aprimorando-a-Experiência-do-Usuário)
+* [Público-Alvo](#Público-Alvo)
+* [Usuários Gerais de Transporte](#Usuários-Gerais-de-Transporte)
+* [Compra de Passagens](#Compra-de-Passagens)
+* [Acesso a Descontos](#Acesso-a-Descontos)
+* [Informações em Tempo Real](#Informações-em-Tempo-Real)
+* [Cadastro de Passageiros](#Cadastro-de-Passageiros)
+* [Interface do Aplicativo](#Interface-do-Aplicativo)
+* [Acessibilidade para deficientes Visual](#Acessibilidade-para-deficientes-Visual)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
